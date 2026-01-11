@@ -26,4 +26,4 @@ A modern, responsive calculator application built with Kotlin for Android.
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/Aadi-0712/Calculator_App.git
