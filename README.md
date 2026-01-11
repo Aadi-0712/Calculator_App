@@ -14,7 +14,7 @@ A modern, responsive calculator application built with Kotlin for Android.
 - ✅ Dark theme support
 
 ## 🎨 Screenshot
-![Calculator App Screenshot](screenshot.png)
+<img src="screenshot.png" width="300" height="600" alt="Calculator App Screenshot">
 
 ## 🚀 Installation
 
